@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/raspberrypi_hat.lib)(options "")(descr ""))
+  (lib (name usb_switchboard-rescue)(type Legacy)(uri ${KIPRJMOD}/usb_switchboard-rescue.lib)(options "")(descr ""))
+  (lib (name usb_switchboard)(type Legacy)(uri ${KIPRJMOD}/usb_switchboard.lib)(options "")(descr ""))
+)
