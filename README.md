@@ -1,5 +1,7 @@
 # USB Switchboard Bonnet
 
+![usb_switchboard](usb_switchboard.png)
+
 This repository houses the KiCad design files for a Raspberry Pi Zero Bonnet
 board. The system provides three independently controlled USB ports, which can
 be selectively enabled or disabled for power delivery purposes via 3 GPIO pins
